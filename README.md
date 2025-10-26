@@ -1,11 +1,11 @@
 # elabst3
-##🔒 Vulnerability Assessment Report — Localhost (Greenbone Security Assistant)
+#🔒 Vulnerability Assessment Report — Localhost (Greenbone Security Assistant)
 
-1. Objective
+#1. Objective
 
 To perform a vulnerability assessment on the local host machine using Greenbone Security Assistant (OpenVAS) to identify potential security weaknesses and recommend mitigations.
 
-2. Tools Used
+#2. Tools Used
 
 | Tool                                      | Description                                          |
 | ----------------------------------------- | ---------------------------------------------------- |
@@ -25,7 +25,7 @@ To perform a vulnerability assessment on the local host machine using Greenbone 
 | Scan Type   | Full and Fast                                   |
 | Port List   | All TCP and top 1000 UDP                        |
 
-4. Scan Summary
+#4. Scan Summary
 
 | Metric                         | Result      |
 | ------------------------------ | ----------- |
